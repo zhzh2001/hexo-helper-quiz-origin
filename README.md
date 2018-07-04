@@ -1,6 +1,6 @@
 # hexo-helper-quiz-origin
 
-original version of swwind/hexo-helper-quiz \[useless 基本没用\]
+original version of [swwind/hexo-helper-quiz](https://github.com/swwind/hexo-helper-quiz) (useless 基本没用)
 
 To use this, simply put these files into your hexo theme directory. 
 
@@ -8,6 +8,6 @@ To use this, simply put these files into your hexo theme directory.
 
 # Usage 使用说明
 
-Refer to sample.md.
+Refer to [sample.md](sample.md).
 
-参考sample.md。
+参考[sample.md](sample.md)。
